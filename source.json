@@ -7,7 +7,7 @@
         "name":"Retro",
         "url":"https://github.com/RetrowaveHyena"
     },
-    "description":"Packages distributed by RetrowaveHyena\nMost of these are propritary and contain runtime compiled DLLs\nAddtionally, most of these packages will require a valid license to use.",
+    "description":"Packages distributed by RetrowaveHyena <br />Most of these are propritary and contain runtime compiled DLLs\nAddtionally, most of these packages will require a valid license to use.",
     "infoLink":{
         "url":"https://github.com/BitforgedVR",
         "text":"Store Page (SOON)"
