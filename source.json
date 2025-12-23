@@ -1,0 +1,19 @@
+{
+    "name":"RetroAssets",
+    "id":"net.bitforged.RetroAssets",
+    "url":"https://vpm.bitforged.net/index.json",
+    "author":{
+        "email":"retro@bitforged.net",
+        "name":"Retro",
+        "url":"https://github.com/RetrowaveHyena"
+    },
+    "description":"Example listing of VRChat packages",
+    "infoLink":{
+        "url":"https://github.com/BitforgedVR",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "BitforgedVR/RDRM"
+    ]
+}
