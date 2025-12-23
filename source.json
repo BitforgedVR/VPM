@@ -7,10 +7,10 @@
         "name":"Retro",
         "url":"https://github.com/RetrowaveHyena"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A set of packages distributed by RetrowaveHyena\nMost of these are propritary and contain runtime compiled DLLs\nAddtionally, most of these packages will require a valid license to use.",
     "infoLink":{
         "url":"https://github.com/BitforgedVR",
-        "text":"View on GitHub"
+        "text":"Store Page (SOON)"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
