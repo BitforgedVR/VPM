@@ -16,6 +16,7 @@
     "githubRepos":[
         "BitforgedVR/RDRM",
         "BitforgedVR/KKVS",
-        "BitforgedVR/RLib"
+        "BitforgedVR/RLib",
+        "BitforgedVR/RHeiarchy"
     ]
 }
