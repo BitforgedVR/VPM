@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "BitforgedVR/RDRM",
-        "BitforgedVR/KKVS"
+        "BitforgedVR/KKVS",
+        "BitforgedVR/RLib"
     ]
 }
